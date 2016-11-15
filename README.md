@@ -1,4 +1,3 @@
 # LeetCode
 
-### Bit operation
-371
+Mostly python
